@@ -1,0 +1,5 @@
+[GenieDB]
+name=GenieDB Packages
+baseurl=http://packages.geniedb.com/centos
+enabled=1
+gpgcheck=0
