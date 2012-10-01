@@ -1,5 +1,11 @@
 [GenieDB]
 name=GenieDB Packages
-baseurl=http://packages.geniedb.com/centos
+baseurl=http://packages.geniedb.com/centos/stable
 enabled=1
+gpgcheck=0
+
+[GenieDB-unstable]
+name=GenieDB Unstable Packages
+baseurl=http://packages.geniedb.com/centos/unstable
+enabled=0
 gpgcheck=0
