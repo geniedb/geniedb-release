@@ -1,6 +1,6 @@
 Name:           geniedb-release       
 Version:        1
-Release:        1
+Release:        2
 Summary:        Packages for GenieDB
 
 Group:          System Environment/Base 
